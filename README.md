@@ -15,7 +15,8 @@ This project analyzes Blinkit sales data to uncover key insights using **Power B
 
 ## 📈 Dashboard Screenshots:
 ### **1️⃣ Sales Overview**
-![Screenshot](C:\Users\Shashank\Desktop\Blinkit\Screenshot 2025-04-03 021356.png)
+![Uploading Screenshot 2025-04-03 021356.png…]()
+
 
 ### **2️⃣ Sales by Outlet Type & Location**
 ![Screenshot](link_to_image)
