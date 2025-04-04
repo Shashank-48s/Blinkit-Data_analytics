@@ -13,16 +13,16 @@ This project analyzes Blinkit sales data to uncover key insights using **Power B
 - **Power BI** (Dashboard & Visualizations)  
 - **Excel** (Data Cleaning & Pivot Tables)  
 
-## 📈 Dashboard Screenshots:
+
 ### **1️⃣ Sales Overview**
-![Uploading Screenshot 2025-04-03 021356.png…]()
+![Screenshot 2025-04-03 021356](https://github.com/user-attachments/assets/478d4719-d269-4879-af01-f4968b35dab8)
 
+![Screenshot 2025-04-03 021233](https://github.com/user-attachments/assets/89f0d453-cce2-4b99-80b3-2aa9dc5f1377)
 
-### **2️⃣ Sales by Outlet Type & Location**
-![Screenshot](link_to_image)
+![Screenshot 2025-04-03 021519](https://github.com/user-attachments/assets/a8260cb4-4ab3-4388-8292-d74bb299c0e7)
 
-### **3️⃣ Impact of Item Visibility on Sales**
-![Screenshot](link_to_image)
+![Screenshot 2025-04-03 021558](https://github.com/user-attachments/assets/acc34710-2efe-4464-996b-791305c7e0de)
+
 
 ## 🔍 Key Insights:
 ✔️ **Top-selling categories:** Fruits & Vegetables, Frozen Foods  
@@ -39,14 +39,3 @@ This project analyzes Blinkit sales data to uncover key insights using **Power B
 ## 📢 Let's Connect!
 💬 **Feedback & suggestions are welcome!**  
 
----
-
-### **How to Upload to GitHub**
-1. **Create a new GitHub repository**  
-2. **Add your project files** (Power BI file, dataset, and this README.md)  
-3. **Commit & Push** to GitHub  
-4. **Update image links** in README after uploading screenshots  
-
----
-
-This README will **make your GitHub project stand out**! 🚀 Let me know if you need any changes. 😊  
